@@ -1,0 +1,6 @@
+C:\Programas Visual\LightsPlease\Modelos\bin\Release\Modelos.dll
+C:\Programas Visual\LightsPlease\Modelos\bin\Release\Modelos.pdb
+C:\Programas Visual\LightsPlease\Modelos\obj\Release\Modelos.csproj.AssemblyReference.cache
+C:\Programas Visual\LightsPlease\Modelos\obj\Release\Modelos.csproj.CoreCompileInputs.cache
+C:\Programas Visual\LightsPlease\Modelos\obj\Release\Modelos.dll
+C:\Programas Visual\LightsPlease\Modelos\obj\Release\Modelos.pdb

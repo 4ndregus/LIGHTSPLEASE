@@ -1,0 +1,6 @@
+C:\Programas Visual\LightsPlease\DataAccess\bin\Release\DataAccess.dll
+C:\Programas Visual\LightsPlease\DataAccess\bin\Release\DataAccess.pdb
+C:\Programas Visual\LightsPlease\DataAccess\obj\Release\DataAccess.csproj.AssemblyReference.cache
+C:\Programas Visual\LightsPlease\DataAccess\obj\Release\DataAccess.csproj.CoreCompileInputs.cache
+C:\Programas Visual\LightsPlease\DataAccess\obj\Release\DataAccess.dll
+C:\Programas Visual\LightsPlease\DataAccess\obj\Release\DataAccess.pdb
